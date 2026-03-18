@@ -30,9 +30,9 @@ export default function LandingPage() {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <h1 className="text-5xl sm:text-6xl font-bold tracking-tight leading-[1.1]">
-              Your AI agent
+              Your AI.
               <br />
-              <span className="text-[#3b82f6]">texts you back.</span>
+              <span className="text-[#3b82f6]">In your WhatsApp.</span>
             </h1>
             <p className="mt-6 text-lg text-white/60 max-w-lg leading-relaxed">
               Your own personal AI in WhatsApp. Remembers everything. Gets
